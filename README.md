@@ -38,7 +38,7 @@ To run the project locally, follow these steps:
 
 ## Design
 
-The UI/UX design for this project was created using Figma. You can view the design [here](https://www.figma.com/file/your-figma-file).
+The UI/UX design for this project was created using Figma. You can view the design [here](https://www.figma.com/file/ohsUf9LPedIgVN6DuvObo0/Explore-Morocco?type=design&node-id=112%3A1159&mode=design&t=ZhByY9EaSHEgztTS-1).
 
 ## Contributing
 
